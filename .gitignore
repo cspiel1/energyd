@@ -1,0 +1,4 @@
+.energydrc
+*.swp
+energyd
+go.sum

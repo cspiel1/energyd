@@ -1,0 +1,7 @@
+{
+	"mqtt_host": "1.2.3.4",
+	"mqtt_port": "1883",
+	"mqtt_user": "xxx",
+	"mqtt_pass": "xxx",
+	"goe_serial": "000000"
+}
